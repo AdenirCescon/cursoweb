@@ -1,5 +1,5 @@
 <?php
-
+//teste
 if(!empty($_POST['usuario']) && !empty($_POST['senha'])) {
 
     $dsn = 'mysql:host=localhost;dbname=php_com_pdo';
